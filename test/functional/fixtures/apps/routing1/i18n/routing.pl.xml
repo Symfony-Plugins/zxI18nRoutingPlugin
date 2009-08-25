@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_US" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>group</source>
+                <target>grupa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>view</source>
+                <target>widok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>edycja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>test</source>
+                <target>testowanie</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

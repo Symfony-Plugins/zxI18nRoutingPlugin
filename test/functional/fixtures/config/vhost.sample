@@ -1,0 +1,21 @@
+    # Be sure to only have this line once in your configuration
+    NameVirtualHost 127.0.0.1:80
+
+    # This is the configuration for zaanax-testy
+    Listen 127.0.0.1:80
+
+    <VirtualHost 127.0.0.1:80>
+      ServerName zaanax-testy.localhost
+      DocumentRoot "C:\Apache\zaanax-tests\web"
+      DirectoryIndex index.php
+      <Directory "C:\Apache\zaanax-tests\web">
+        AllowOverride All
+        Allow from All
+      </Directory>
+
+      Alias /sf "C:\Work\symfony1.2.8\data\web\sf"
+      <Directory "C:\Work\symfony1.2.8\data\web\sf">
+        AllowOverride All
+        Allow from All
+      </Directory>
+    </VirtualHost>

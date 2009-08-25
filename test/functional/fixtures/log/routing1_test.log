@@ -1,0 +1,1414 @@
+Aug 24 22:49:27 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:27 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:28 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:49:28 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:28 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:28 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:49:28 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:29 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:29 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:29 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:29 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:29 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:29 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:29 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:29 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:49:30 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:30 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:30 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:49:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:49:30 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:30 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:49:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:48 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:49 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:49:50 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:50 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:49:50 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:49:50 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:50 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:50 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:49:50 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:50 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:49:50 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:49:50 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:50 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:49:50 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:50 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:49:51 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:51 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:49:51 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:49:51 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:51 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:51 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:51 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:49:51 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:52 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:49:52 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:49:52 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:52 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:52 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:49:52 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:49:52 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:49:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:49:52 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:49:52 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:49:52 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:52 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:49:52 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:52 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:49:53 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:50:08 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:50:09 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:50:09 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:50:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:50:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:50:09 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:50:09 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:50:09 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:50:09 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:50:09 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:50:09 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:50:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:50:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:50:09 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:50:09 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:50:09 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:50:09 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:50:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:50:10 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:50:10 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:50:10 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:50:10 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:50:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:50:10 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:50:10 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:50:10 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:50:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:50:11 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:51:34 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:51:35 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:51:35 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:51:35 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:51:35 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:51:35 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:51:35 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:51:35 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:51:35 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:51:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:51:35 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:51:36 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:51:36 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:51:36 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:51:36 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:51:36 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:51:36 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:51:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:51:36 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:51:36 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:51:36 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:51:36 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:51:36 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:51:36 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:07 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:08 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:08 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:08 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:08 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:08 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:08 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:08 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:08 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:52:09 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:09 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:09 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:52:09 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:52:09 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:09 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:09 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:52:09 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:09 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:09 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:52:09 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:52:09 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:09 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:09 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:52:09 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:10 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:29 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:52:29 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:29 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:52:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:52:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:29 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:30 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:52:30 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:30 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:30 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:30 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:30 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:52:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:52:31 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:52:31 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:52:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:52:31 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:52:31 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:52:31 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:31 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:52:31 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:52:31 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:54:03 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:54:03 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:54:03 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:54:03 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:54:04 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:54:04 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:54:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:54:04 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:54:04 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:54:04 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:54:04 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:54:04 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:54:04 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:54:05 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:54:05 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:54:05 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:54:05 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:54:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:54:05 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:54:05 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:54:05 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:54:05 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:54:06 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:54:06 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:54:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:54:06 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:54:06 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:54:06 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:54:06 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:54:06 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:54:06 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:55:28 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:55:29 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:55:29 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:55:29 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:55:29 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:55:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:55:29 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:55:29 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:55:29 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:55:29 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:55:30 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:55:30 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:55:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:55:30 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:55:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:55:30 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:55:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:55:30 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:55:30 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:55:30 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:55:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:55:30 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:55:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:55:30 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:55:30 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:55:30 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:55:30 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:59:10 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Aug 24 22:59:11 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:59:11 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:59:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:59:11 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:59:11 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:59:11 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:59:11 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:59:11 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Match route "homepage_ntr" (/:sf_culture/) for /pl/ with parameters array (  'module' => 'default',  'action' => 'index',  'sf_culture' => 'pl',)
+Aug 24 22:59:11 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:59:11 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:59:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:59:11 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Aug 24 22:59:11 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib/controller/default/templates/indexSuccess.php"
+Aug 24 22:59:11 symfony [info] {sfPHPView} Decorate content with "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:59:11 symfony [info] {sfPHPView} Render "C:\Work\symfony1.2.8\lib\controller\default\templates/defaultLayout.php"
+Aug 24 22:59:11 symfony [info] {sfWebResponse} Send content (2067 o)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:59:11 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja) for /pl/testowanie/grupa/edycja with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'pl',)
+Aug 24 22:59:12 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:59:12 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:59:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:59:12 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:59:12 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:59:12 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:59:12 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:59:12 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:59:12 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht) for /de/test/gruppe/sicht with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'de',)
+Aug 24 22:59:12 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:59:12 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:59:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:59:12 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:59:12 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:59:12 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:59:12 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:59:12 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1" (/test/group/view)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_ntr" (/:sf_culture/test/group/view)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_de" (/:sf_culture/test/gruppe/sicht)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_1_pl" (/:sf_culture/testowanie/grupa/widok)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2" (/test/group/edit)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_ntr" (/:sf_culture/test/group/edit)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_de" (/:sf_culture/test/gruppe/edieren)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_2_pl" (/:sf_culture/testowanie/grupa/edycja)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3" (/test/group/:sf_culture)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_de" (/test/gruppe/:sf_culture)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "xz_test_route_3_pl" (/testowanie/grupa/:sf_culture)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage" (/)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_ntr" (/:sf_culture/)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfRoute "homepage_en" (/:sf_culture//)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Match route "xz_test_route_1_ntr" (/:sf_culture/test/group/view) for /fr/test/group/view with parameters array (  'module' => 'zxRouting',  'action' => 'test',  'sf_culture' => 'fr',)
+Aug 24 22:59:13 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Aug 24 22:59:13 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Aug 24 22:59:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Aug 24 22:59:13 symfony [info] {zxRoutingActions} Call "zxRoutingActions->executeTest()"
+Aug 24 22:59:13 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\modules/zxRouting/templates/testSuccess.php"
+Aug 24 22:59:13 symfony [info] {sfPHPView} Decorate content with "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:59:13 symfony [info] {sfPHPView} Render "C:\Work\packages\zxI18nRoutingPlugin\test\functional\fixtures\apps\routing1\templates/layout.php"
+Aug 24 22:59:13 symfony [info] {sfWebResponse} Send content (477 o)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4" (/test/group/list/:page)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_ntr" (/:sf_culture/test/group/list/:page)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_de" (/:sf_culture/test/gruppe/list/:page)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "xz_test_route_4_pl" (/:sf_culture/testowanie/grupa/list/:page)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Clear all current routes
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route" (/zx_test_propel_route.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new" (/zx_test_propel_route/new.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_new_ntr" (/:sf_culture/zx_test_propel_route/new.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create" (/zx_test_propel_route.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_create_ntr" (/:sf_culture/zx_test_propel_route.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit" (/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_ntr" (/:sf_culture/zx_test_propel_route/:id/edit.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_de" (/:sf_culture/zx_test_propel_route/:id/edieren.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_edit_pl" (/:sf_culture/zx_test_propel_route/:id/edycja.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_update_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_delete_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show" (/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_show_ntr" (/:sf_culture/zx_test_propel_route/:id.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object" (/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_object_ntr" (/:sf_culture/zx_test_propel_route/:id/:action.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:59:13 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:59:14 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection" (/zx_test_propel_route/:action/action.:sf_format)
+Aug 24 22:59:14 symfony [info] {zxPatternI18NRouting} Connect sfPropelRoute "zx_test_propel_route_collection_ntr" (/:sf_culture/zx_test_propel_route/:action/action.:sf_format)
